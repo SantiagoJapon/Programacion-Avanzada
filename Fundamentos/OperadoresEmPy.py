@@ -10,7 +10,14 @@ print(type(entero))
 nombre = "Santiago"
 print(type(nombre))
 
-
-
-
-# #Strin  
+#complejos o compuestos
+#listas 
+lista = ["Juan", "Maria", "Pedro", "Martha"]
+print(type(lista))
+print(lista[0])
+lista[3] = "Juana"
+print(lista)
+#tuplas, 
+#diccionarios
+#set
+#range

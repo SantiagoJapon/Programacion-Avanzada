@@ -10,3 +10,6 @@ Ejemplos de operaciones matematicas
 suma = 2 + 2 # Esto es un comentario 
 
 # Esto es un comentario de una linea
+"""
+cometarios de varias lineas
+"""
