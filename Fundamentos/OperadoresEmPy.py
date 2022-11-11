@@ -17,6 +17,8 @@ print(type(lista))
 print(lista[0])
 lista[3] = "Juana"
 print(lista)
+
+print(2+2)
 #tuplas, 
 #diccionarios
 #set
